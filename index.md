@@ -14,6 +14,8 @@ This is a section link: [My personal page](#Rui-Li's-personal-page)
 
 This is a relative link to a image: [Screenshot of git command](./screenshots/git_command.png)
 
+My dog (it is not my dog) : ![](https://ruili4ucsd.github.io/CSE110_Lab2_Starter/pic/dog.gif)
+
 An example of ordered list:
 1. One.
 2. Two.
